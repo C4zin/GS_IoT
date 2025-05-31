@@ -1,3 +1,15 @@
+
+## Integrantes
+
+Angello Turano RM: 556511
+
+Cauã Sanches RM:558317
+
+Leonardo Bianchi RM:558576
+
+
+
+
 🔥 Previsão de Risco de Queimadas com IoT & Machine Learning
 Um sistema inteligente para antecipar e mitigar o risco de queimadas por meio da coleta de dados ambientais e análise preditiva com IA.
 
